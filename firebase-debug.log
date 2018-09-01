@@ -1,0 +1,32 @@
+[debug] [2018-09-01T11:43:50.274Z] ----------------------------------------------------------------------
+[debug] [2018-09-01T11:43:50.276Z] Command:       /Users/riccardokrone/.nvm/versions/node/v6.13.1/bin/node /Users/riccardokrone/.nvm/versions/node/v6.13.1/bin/firebase serve
+[debug] [2018-09-01T11:43:50.277Z] CLI Version:   3.17.7
+[debug] [2018-09-01T11:43:50.277Z] Platform:      darwin
+[debug] [2018-09-01T11:43:50.277Z] Node Version:  v6.13.1
+[debug] [2018-09-01T11:43:50.278Z] Time:          Sat Sep 01 2018 13:43:50 GMT+0200 (CEST)
+[debug] [2018-09-01T11:43:50.278Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-09-01T11:43:50.293Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-09-01T11:43:50.293Z] > authorizing via signed-in user
+[debug] [2018-09-01T11:43:50.297Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/frontendstore-ce0b7  
+  
+ Sat Sep 01 2018 13:43:50 GMT+0200 (CEST)
+[debug] [2018-09-01T11:43:51.098Z] <<< HTTP RESPONSE 200
+[debug] [2018-09-01T11:43:51.099Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/frontendstore-ce0b7/tokens  
+  
+ Sat Sep 01 2018 13:43:51 GMT+0200 (CEST)
+[debug] [2018-09-01T11:43:51.838Z] <<< HTTP RESPONSE 200
+[debug] [2018-09-01T11:43:51.839Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/frontendstore-ce0b7  
+  
+ Sat Sep 01 2018 13:43:51 GMT+0200 (CEST)
+[debug] [2018-09-01T11:43:52.760Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/riccardokrone/Project/frontendstore'...
+[info] 
+[debug] [2018-09-01T11:43:52.764Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/1046037512443/clients/_:getWebAppConfig  
+  
+ Sat Sep 01 2018 13:43:52 GMT+0200 (CEST)
+[debug] [2018-09-01T11:43:53.270Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
