@@ -1,0 +1,17 @@
+.firebaserc
+
+
+
+# OSX
+.DS_Store
+
+# Intellij Idea
+.idea/
+.idea/*
+*.iml
+
+# node
+/logs
+/npm-debug.log
+/node_modules/
+/functions/node_modules/
